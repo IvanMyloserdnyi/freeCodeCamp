@@ -2,4 +2,4 @@
 const lastName = "Lovelace";
 
 // Змініть код лише під цим рядком
-const thirdLetterOfLastName = lastName[2]; // Змініть цей рядок
+const lastLetterOfLastName = lastName[lastName.length - 1]; // Змініть цей рядок
